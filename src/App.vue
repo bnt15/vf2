@@ -3,7 +3,8 @@
     2021.05.22 init
     <div id="nav">
       <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+      <router-link to="/about">About</router-link> |
+      <router-link to="/test">TTTTest</router-link>
     </div>
     <router-view/>
   </div>
